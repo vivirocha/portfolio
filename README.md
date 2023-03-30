@@ -42,4 +42,13 @@
   />
 </a>
 <br>  
+<br>
+<h2 class="u-text u-text-default u-title u-text-1">Contato</h2>
+
+
+<a href="https://www.linkedin.com/in/vlrocha/">
+  <img src="https://live.staticflickr.com/1681/26187178742_b0c3547696.jpg" width="30" height="30" />
+</a>
+<br>        
+
 </body></html>
