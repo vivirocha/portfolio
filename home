@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="pt"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Portfolio, Photography, INTUITIVE">
+    <meta name="description" content="">
+    <title>Página Inicial</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Página-Inicial.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.7.9, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"logo": "images/Viviane-Rocha-logotipo-1-e1660941087793.png"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Página Inicial">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="Página-Inicial.html" data-home-page-title="Página Inicial" class="u-body u-xl-mode" data-lang="pt"><header class="u-clearfix u-header u-header" id="sec-e18c"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <a href="https://nicepage.com" class="u-image u-logo u-image-1" data-image-width="431" data-image-height="103">
+          <img src="images/Viviane-Rocha-logotipo-1-e1660941087793.png" class="u-logo-image u-logo-image-1">
+        </a>
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="menu-hamburger" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Página-Inicial.html" style="padding: 10px 20px;">Página Inicial</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Página-Inicial.html">Página Inicial</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-align-center u-clearfix u-image u-shading u-section-1" src="" data-image-width="5000" data-image-height="3220" id="sec-8b6a">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h1 class="u-text u-text-default u-title u-text-1">Portfólio</h1>
+        <p class="u-large-text u-text u-text-default u-text-variant u-text-2"> Bem-vindo ao meu portfólio de projetos de Data Science e Machine Learning!&nbsp;<br>
+          <br>Aqui você encontrará uma coleção de projetos que desenvolvi para demonstrar minha experiência e habilidades em análise de dados, modelagem preditiva e aprendizado de máquina. Cada projeto foi cuidadosamente selecionado e trabalhado para fornecer insights valiosos e soluções práticas para desafios do mundo real.<br>
+          <br>Como cientista de dados, meu objetivo é utilizar dados e análises para ajudar empresas e organizações a tomar decisões melhores e mais informadas. Meus projetos demonstram minha capacidade de trabalhar com dados de diferentes fontes, aplicar técnicas de pré-processamento, explorar dados para insights valiosos e construir modelos de aprendizado de máquina que possam prever tendências, classificar informações e tomar decisões precisas.<br>
+          <br>Ao navegar por este portfólio, você terá a oportunidade de ver exemplos de como apliquei técnicas de análise de dados e aprendizado de máquina para resolver problemas em diversas áreas, incluindo saúde, finanças, marketing e muito mais. Espero que você aprecie meu trabalho e sinta-se inspirado a trabalhar comigo em projetos futuros!
+        </p>
+        <a href="Página-Inicial.html#carousel_3bbf" class="u-btn u-button-style u-palette-2-base u-btn-1">Ver portfólio</a>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-palette-5-dark-3 u-section-2" id="carousel_3bbf">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h2 class="u-text u-text-1">Portfolio</h2>
+        <p class="u-text u-text-2">Data Science &amp; Machine Learning</p>
+        <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+          <div class="u-gutter-0 u-layout">
+            <div class="u-layout-row">
+              <div class="u-size-60">
+                <div class="u-layout-col">
+                  <div class="u-size-20">
+                    <div class="u-layout-row">
+                      <div class="u-container-style u-image u-layout-cell u-size-20 u-image-1" data-image-width="1063" data-image-height="1063">
+                        <div class="u-container-layout u-container-layout-1"></div>
+                      </div>
+                      <div class="u-container-style u-image u-layout-cell u-size-20 u-image-2" data-image-width="1063" data-image-height="1063" data-href="https://github.com/vivirocha/financas" data-target="_blank">
+                        <div class="u-container-layout u-container-layout-2"></div>
+                      </div>
+                      <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-3" data-image-width="1063" data-image-height="1063" data-href="https://github.com/vivirocha/marketing" data-target="_blank">
+                        <div class="u-container-layout u-container-layout-3"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="u-size-20">
+                    <div class="u-layout-row">
+                      <div class="u-container-style u-image u-layout-cell u-size-20 u-image-4" data-image-width="1063" data-image-height="1063" data-href="https://github.com/vivirocha/vendas" data-target="_blank">
+                        <div class="u-container-layout u-container-layout-4"></div>
+                      </div>
+                      <div class="u-container-style u-image u-layout-cell u-size-20 u-image-5" data-image-width="1063" data-image-height="1063" data-href="https://github.com/vivirocha/recursoshumanos">
+                        <div class="u-container-layout u-container-layout-5"></div>
+                      </div>
+                      <div class="u-container-style u-image u-layout-cell u-right-cell u-size-20 u-image-6" data-image-width="1063" data-image-height="1063" data-href="https://github.com/vivirocha/educacao" data-target="_blank">
+                        <div class="u-container-layout u-container-layout-6"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="u-size-20">
+                    <div class="u-layout-row">
+                      <div class="u-container-style u-image u-layout-cell u-size-60 u-image-7" data-image-width="500" data-image-height="500" data-href="https://github.com/vivirocha/Kaggle-R" data-target="_blank">
+                        <div class="u-container-layout u-container-layout-7"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-grey-90 u-valign-middle-md u-section-3" id="carousel_48b9">
+      <img class="u-expanded-width u-image u-image-1" src="images/64996500-0.jpeg" data-image-width="1553" data-image-height="1000">
+      <div class="u-list u-list-1">
+        <div class="u-repeater u-repeater-1">
+          <div class="u-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" data-href="https://www.linkedin.com/in/vlrocha/" data-target="_blank">
+            <div class="u-container-layout u-similar-container u-container-layout-1"><span class="u-file-icon u-icon u-icon-1"><img src="images/3536505.png" alt=""></span>
+              <h5 class="u-text u-text-1">lINKEDIN</h5>
+            </div>
+          </div>
+          <div class="u-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" data-href="mailto:vlopes36@gmail.com?subject=Contato%20Portf%C3%B3lio">
+            <div class="u-container-layout u-similar-container u-container-layout-2"><span class="u-file-icon u-icon u-icon-2"><img src="images/726623.png" alt=""></span>
+              <h5 class="u-text u-text-2">E-MAIL</h5>
+            </div>
+          </div>
+          <div class="u-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" data-href="https://github.com/vivirocha" data-target="_blank">
+            <div class="u-container-layout u-similar-container u-container-layout-3"><span class="u-file-icon u-icon u-icon-3"><img src="images/270798.png" alt=""></span>
+              <h5 class="u-text u-text-3">GITHUB</h5>
+            </div>
+          </div>
+          <div class="u-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" data-href="https://www.kaggle.com/vivianerocha" data-target="_blank">
+            <div class="u-container-layout u-similar-container u-container-layout-4"><span class="u-icon u-icon-4"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 58 58" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-31b5"></use></svg><svg class="u-svg-content" viewBox="0 0 58 58" x="0px" y="0px" id="svg-31b5" style="enable-background:new 0 0 58 58;"><circle style="fill:#48A0DC;" cx="29" cy="29" r="29"></circle><path style="fill:#EFCE4A;" d="M0,29c0,0.295,0.013,0.586,0.022,0.879H29V0C12.984,0,0,12.984,0,29z"></path><path style="fill:#4393BF;" d="M29,6.879c-0.552,0-1,0.447-1,1v23H13c-0.552,0-1,0.447-1,1s0.448,1,1,1h16c0.552,0,1-0.447,1-1v-24
+	C30,7.326,29.552,6.879,29,6.879z"></path><path style="fill:#424A60;" d="M29,5c-0.552,0-1,0.447-1,1v23H13c-0.552,0-1,0.447-1,1s0.448,1,1,1h16c0.552,0,1-0.447,1-1V6
+	C30,5.447,29.552,5,29,5z"></path></svg></span>
+              <h5 class="u-text u-text-4">KAGGLE</h5>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+</body></html>
