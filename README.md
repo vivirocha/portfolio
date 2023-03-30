@@ -9,8 +9,37 @@
         </p>
        
 <a href="https://github.com/vivirocha/saude">
-  <img src="https://live.staticflickr.com/65535/52782050399_5dffc90412_b.jpg" width="100" height="100" alt="Viviane Rocha Portfolio 1"
+  <img src="https://live.staticflickr.com/65535/52782050399_5dffc90412_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 1"
   />
 </a> 
-  
+<a href="https://github.com/vivirocha/financas">
+  <img src="https://live.staticflickr.com/65535/52781263797_6e66e0c002_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 2"
+  />
+</a>
+<a href="https://github.com/vivirocha/marketing">
+  <img src="https://live.staticflickr.com/65535/52781806716_c54db506f3_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 3"
+  />
+</a>
+<br>
+
+<a href="https://github.com/vivirocha/vendas">
+  <img src="https://live.staticflickr.com/65535/52782270013_8cd5838e7a_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 4"
+  />
+</a>
+
+<a href="https://github.com/vivirocha/recursoshumanos">
+  <img src="https://live.staticflickr.com/65535/52782269998_7a2f4b82b3_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 5"
+  />
+</a>
+
+<a href="https://github.com/vivirocha/educacao">
+  <img src="https://live.staticflickr.com/65535/52782211570_afa2c0b8a2_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 6"
+  />
+</a>
+<br>
+<a href="https://github.com/vivirocha/Kaggle-R">
+  <img src="https://live.staticflickr.com/65535/52781926656_381b2c5739.jpg" width="450" height="150" alt="Viviane Rocha Portfolio 6"
+  />
+</a>
+<br>  
 </body></html>
