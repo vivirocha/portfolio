@@ -7,7 +7,7 @@
           <br>Como cientista de dados, meu objetivo é utilizar dados e análises para ajudar empresas e organizações a tomar decisões melhores e mais informadas. Meus projetos demonstram minha capacidade de trabalhar com dados de diferentes fontes, aplicar técnicas de pré-processamento, explorar dados para insights valiosos e construir modelos de aprendizado de máquina que possam prever tendências, classificar informações e tomar decisões precisas.<br>
           <br>Ao navegar por este portfólio, você terá a oportunidade de ver exemplos de como apliquei técnicas de análise de dados e aprendizado de máquina para resolver problemas em diversas áreas, incluindo saúde, finanças, marketing e muito mais. Espero que você aprecie meu trabalho e sinta-se inspirado a trabalhar comigo em projetos futuros!
         </p>
-       
+       <br>
 <a href="https://github.com/vivirocha/saude">
   <img src="https://live.staticflickr.com/65535/52782050399_5dffc90412_b.jpg" width="150" height="150" alt="Viviane Rocha Portfolio 1"
   />
